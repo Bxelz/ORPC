@@ -1,0 +1,20 @@
+{
+  "ApplicationId": "1186798910354771978",
+  "Name": "Isabella",
+  "State": "Playing Izzy's Commands",
+  "Details": "bears? | /help",
+  "LargeImageKey": "",
+  "SmallImageKey": "",
+  "LargeImageText": "",
+  "SmallImageText": "",
+  "Buttons": [
+    {
+      "Label": "Add To Server",
+      "Url": "https://discord.com/oauth2/authorize?client_id=1186798910354771978"
+    },
+    {
+      "Label": "Support Server",
+      "Url": "https://discord.gg/NkpKEJGeQX"
+    }
+  ]
+}
